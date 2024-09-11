@@ -93,82 +93,82 @@ Here is an outline of the lesson on **Master R Programming**:
 		- English Alphabets		
 		- Replacement		
 		- Evaluation		
-13. Data Wrangling in the TIDYVERSE			
-		- TIBBLE		
-		- TIDYR		
-		- DPLYR		
-		- READR		
-		- STRINGR		
-		- FORCATS		
-		- PURRR		
-		- LUBRIDATE		
-		- GGPLOT2		
-14. Graphics and Visualization – Base R			
-		- Scatter Plot		
-		- Histogram		
-		- Density Plot		
-		- Box Plot		
-		- Bar Plot		
-		- Mosaic Plot		
-		- Line Plot		
-		- Labelling Plots (Title, Subtitle, Axes)		
-		- Line Types and Styles		
-		- Point Characters in Plots		
-		- Text Annotations		
-		- Lines, Segments, and Arrows		
-		- Legends		
-		- Box and Box Types in Plots		
-		- Axes Customization		
-		- Grids		
-		- Plot Margins		
-		- Background Colour of Plots		
-		- Combining Plots (Simple and Complex Layouts)		
-15. Graphics and Visualization – GGPLOT2			
-		- Data		
-		- Aesthetics		
-		- Geometries		
-			- Aesthetic Attributes	
-			- Labelling Plots	
-			- Position Adjustments	
-			- Scales, Axes, and Legends	
-		- Facets		
-			- Facet Wrap	
-			- Facet Grid	
-			- Facet Control	
-		- Coordinates		
-			- Linear Coordinate System	
-			- Non-linear Coordinate System	
-		- Statistics		
-		- Themes		
-			- Complete Themes	
-			- Theme Elements using theme() Function	
-			- `ggthemes` Package	
-16. Linear Regression Models			
-		- Simple Linear Regression		
-		- Multiple Linear Regression (MLR)		
-			- MLR with Square Term	
-			- MLR with Interaction Terms	
-			- MLR with Dummy Variable Concept	
-		- Multicollinearity		
-		- Heteroscedasticity		
-		- Autocorrelation		
-17. Generalized Linear Models (GLM)			
-		- Binary Response Models		
-		- Linear Probability Model (LPM)		
-		- Logistic Regression (or Logit) Model		
-		- Probit Regression (or Normit) Model		
-		- Regression Tables with STARGAZER Package		
-18. R Markdown for Reporting			
-		- Inserting Headers		
-		- Inserting Paragraphs		
-		- Emphasis (Bold, Italics, etc…)		
-		- Horizontal Rule		
-		- Lists (Ordered and Unordered Lists)		
-		- Links (Inline and Reference)		
-		- Automatic Links (Web Links and Emails)		
-		- Blockquotes (Single and Nested)		
-		- Inserting Images (Path, or Reference)		
-		- Backlash Escapes		
-		- HTML in Markdown		
+13. Data Wrangling in the TIDYVERSE
+    - TIBBLE
+    - TIDYR
+    - DPLYR
+    - READR
+    - STRINGR
+    - FORCATS
+    - PURRR
+    - LUBRIDATE
+    - GGPLOT2		
+15. Graphics and Visualization – Base R
+    - Scatter Plot
+    - Histogram
+    - Density Plot
+    - Box Plot
+    - Bar Plot
+    - Mosaic Plot
+    - Line Plot
+    - Labelling Plots (Title, Subtitle, Axes)
+    - Line Types and Styles
+    - Point Characters in Plots
+    - Text Annotations
+    - Lines, Segments, and Arrows
+    - Legends
+    - Box and Box Types in Plots
+    - Axes Customization
+    - Grids
+    - Plot Margins
+    - Background Colour of Plots
+    - Combining Plots (Simple and Complex Layouts)		
+17. Graphics and Visualization – GGPLOT2
+    - Data
+    - Aesthetics
+    - Geometries
+    - Aesthetic Attributes
+    - Labelling Plots
+    - Position Adjustments
+    - Scales, Axes, and Legends
+    - Facets
+      - Facet Wrap
+      - Facet Grid
+      - Facet Control
+    - Coordinates
+      - Linear Coordinate System
+      - Non-linear Coordinate System
+    - Statistics
+    - Themes
+      - Complete Themes
+      - Theme Elements using theme() Function
+      - `ggthemes` Package	
+19. Linear Regression Models
+    - Simple Linear Regression
+    - Multiple Linear Regression (MLR)
+      - MLR with Square Term
+      - MLR with Interaction Terms
+      - MLR with Dummy Variable Concept	
+    - Multicollinearity
+    - Heteroscedasticity
+    - Autocorrelation		
+21. Generalized Linear Models (GLM)
+    - Binary Response Models
+      - Linear Probability Model (LPM)
+      - Logistic Regression (or Logit) Model
+      - Probit Regression (or Normit) Model
+      - Regression Tables with STARGAZER Package		
+23. R Markdown for Reporting
+    - Inserting Headers
+    - Inserting Paragraphs
+    - Emphasis (Bold, Italics, etc…)
+    - Horizontal Rule
+    - Lists (Ordered and Unordered Lists)
+    - Links (Inline and Reference)
+    - Automatic Links (Web Links and Emails)
+    - Blockquotes (Single and Nested)
+    - Inserting Images (Path, or Reference)
+    - Backlash Escapes
+    - HTML in Markdown		
 
 **Note**: All these lessons can be found on my [YouTube channel](https://www.youtube.com/@ElijahAppiah). Videos are posted consistently so do not hesitate to subscribe.
