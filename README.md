@@ -9,7 +9,7 @@ Here is an outline of the lesson on **Master R Programming**:
    - [Demonstrating R’s Capabilities](https://youtu.be/AfzGzcb63MY?si=HfIJ8HFxK7zwL4SS)
 2. Operations in R
    - [Assignment Operators](https://youtu.be/W3_8Bjd5dJ0?si=rydht5ziOt3KjanA)
-   - Arithmetic Operators – R as a Calculator
+   - [Arithmetic Operators – R as a Calculator](https://youtu.be/SzEmOLrz0Zc?si=WNcyMFmaPY9N_x45)
    - Logical Operators
    - Relational Operators		
 3. Data Types
