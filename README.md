@@ -11,7 +11,7 @@ Here is an outline of the lesson on **Master R Programming**:
    - [Assignment Operators](https://youtu.be/W3_8Bjd5dJ0?si=rydht5ziOt3KjanA)
    - [Arithmetic Operators – R as a Calculator](https://youtu.be/SzEmOLrz0Zc?si=WNcyMFmaPY9N_x45)
    - [Logical Operators](https://youtu.be/XbLCfL5Vgek?si=ii5ap9VUv3xZTQ7h)
-   - Relational Operators		
+   - [Relational Operators](https://youtu.be/evXpjx1-X3I?si=1up50l-O0VDDj9Pf)		
 3. Data Types
    - Basic Data Types (Numeric, Integer, Character, Logical, Complex)
    - Testing Data Types
