@@ -23,15 +23,15 @@ Here is an outline of the lesson on **Master R Programming**:
      - Relational Operations on Vectors
      - Vector Indexing with “Index”
      - Vector Indexing with “Relational Operators”	
-	 - Lists
+   - Lists
      - List Indexing with “Index”
      - List Indexing with “Named Lists”	
-	 - Matrices
+   - Matrices
      - Accessing Rows and Columns on Matrices
      - Matrix Operations (Arithmetic)
      - Matrix Operations (Transpose, Determinant, Inverse, Eigenvalues-Eigenvectors)
      - Solving Simultaneous Equations with Matrices	
-	 - Arrays
+   - Arrays
      - Array Indexing
      - Data Frames – An Introduction (built-in)
 5. Conditional Executions
