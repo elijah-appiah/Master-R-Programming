@@ -13,7 +13,7 @@ Here is an outline of the lesson on **Master R Programming**:
    - [Logical Operators](https://youtu.be/XbLCfL5Vgek?si=ii5ap9VUv3xZTQ7h)
    - [Relational Operators](https://youtu.be/evXpjx1-X3I?si=1up50l-O0VDDj9Pf)		
 3. Data Types
-   - Basic Data Types (Numeric, Integer, Character, Logical, Complex)
+   - [Basic Data Types (Numeric, Integer, Character, Logical, Complex)](https://youtu.be/Etfptg9hhNI?si=bhZFAbM_bdqzJjVf)
    - Verifying Data Types
    - Type Conversion: Convert One Data Type to Another
    - Variable Naming Conventions in R		
