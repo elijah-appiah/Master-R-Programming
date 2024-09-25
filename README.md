@@ -15,7 +15,7 @@ Here is an outline of the lesson on **Master R Programming**:
 3. Data Types
    - [Basic Data Types (Numeric, Integer, Character, Logical, Complex)](https://youtu.be/Etfptg9hhNI?si=bhZFAbM_bdqzJjVf)
    - [Verifying Data Types](https://youtu.be/vAayHuxFXgU?si=vwqAOiRyxY7sp7_k)
-   - Type Conversion: Convert One Data Type to Another
+   - [Type Conversion: Convert One Data Type to Another](https://youtu.be/M-WiG7lfwuM?si=MVVuzUdNYDp1v2ea)
    - Variable Naming Conventions in R		
 4. Data Structures
    - Vectors
