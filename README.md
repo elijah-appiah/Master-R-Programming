@@ -19,7 +19,7 @@ Here is an outline of the lesson on **Master R Programming**:
    - [Variable Naming Conventions in R](https://youtu.be/fTx109jARqo?si=DFO80d3ck3ZV6pPj)
 4. Data Structures
    - [Vectors](https://youtu.be/YuMVnWUfipE?si=xfBqrQDj2TP3zdq7)
-     - Arithmetic Operations on Vectors
+     - [Arithmetic Operations on Vectors](https://youtu.be/TQFFTUiuehA?si=JZQfYgudVND5FnZP)
      - Relational Operations on Vectors
      - Vector Indexing with “Index”
      - Vector Indexing with “Relational Operators”	
