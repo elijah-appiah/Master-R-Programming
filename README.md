@@ -21,7 +21,7 @@ Here is an outline of the lesson on **Master R Programming**:
    - [Vectors](https://youtu.be/YuMVnWUfipE?si=xfBqrQDj2TP3zdq7)
      - [Arithmetic Operations on Vectors](https://youtu.be/TQFFTUiuehA?si=JZQfYgudVND5FnZP)
      - [Relational Operations on Vectors](https://youtu.be/AEqet3ujopM?si=TiuYWGSr6f4cYxzr)
-     - Vector Indexing with “Index” and “Relational Operators” 
+     - [Vector Indexing with “Index” and “Relational Operators”](https://youtu.be/Sx7QPVj9m90?si=YIpYqP1rMEKLQ1dA)
    - Lists
      - List Indexing with “Index”
      - List Indexing with “Named Lists”	
