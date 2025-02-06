@@ -36,7 +36,7 @@ Here is an outline of the lesson on **Master R Programming**:
 5. Conditional Executions
    - The `if`, `else` and `else if` Conditions
    - Nested `if` Conditions
-   - The `ifelse()` Function		
+   - The `ifelse()` Function	
 6. Loops
    - The `for` Loop
    - The `while` Loop
