@@ -1,7 +1,7 @@
 # Master-R-Programming
 ### Learn all the skills you need to become an R expert. 
 
-Here is an outline of the lesson on **Master R Programming**: 
+Here is an outline of the lesson on **Master R Programming**:
 1. Introduction
    - [About Course and the R programming Language](https://youtu.be/Yz6T1uXvnVA?si=7Yf2mtpqSpAHREZn)
    - [Installing R and RStudio](https://youtu.be/1LGxBDsRQK8?si=8H4ur622vgzmHEpv)
