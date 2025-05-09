@@ -148,7 +148,7 @@ Here is an outline of the lesson on **Master R Programming**:
     - Multiple Linear Regression (MLR)
       - MLR with Square Term
       - MLR with Interaction Terms
-      - MLR with Dummy Variable Concept	
+      - MLR with Dummy Variable Concepts
     - Multicollinearity
     - Heteroscedasticity
     - Autocorrelation		
