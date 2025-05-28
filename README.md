@@ -1,5 +1,5 @@
 # Master-R-Programming
-### Learn all the skills you need to become an R expert. 
+### Learn all the skills you need to become an R expert.
 
 Here is an outline of the lesson on **Master R Programming**:
 1. Introduction
