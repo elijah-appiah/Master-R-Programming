@@ -23,16 +23,20 @@ Here is an outline of the lesson on **Master R Programming**:
      - [Relational Operations on Vectors](https://youtu.be/AEqet3ujopM?si=TiuYWGSr6f4cYxzr)
      - [Vector Indexing with “Index” and “Relational Operators”](https://youtu.be/Sx7QPVj9m90?si=YIpYqP1rMEKLQ1dA)
    - Lists
-     - List Indexing with “Index”
-     - List Indexing with “Named Lists”	
+     - [Create Lists and Nested Lists](https://youtu.be/FtzeloV7qfs?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
+     - [List Indexing](https://youtu.be/G6dcUTaPU4o?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
+     - [Creating and Indexing Named Lists](https://youtu.be/fJO5mAI7Fyw?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
    - Matrices
-     - Accessing Rows and Columns on Matrices
-     - Matrix Operations (Arithmetic)
-     - Matrix Operations (Transpose, Determinant, Inverse, Eigenvalues-Eigenvectors)
-     - Solving Simultaneous Equations with Matrices	
+     - [Create Matrices of all Sorts](https://youtu.be/n7bNhOR6EQ0?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
+     - [Accessing Rows and Columns on Matrices](https://youtu.be/8gdE3XHx56U?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
+     - [Matrix Operations (Arithmetic)](https://youtu.be/IXLZmQPHlkI?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
+     - [Matrix Operations (Transpose, Determinant, Inverse, Eigenvalues-Eigenvectors)](https://youtu.be/zFSaSb4pKQU?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
+     - [Solving Simultaneous Equations with Matrices](https://youtu.be/PA4v827M1qI?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
    - Arrays
-     - Array Indexing
-     - Data Frames – An Introduction (built-in)
+     - [Create 1D, 2D, 3D, 4D Arrays & Array Indexing](https://youtu.be/mo5tH7VCRDY?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
+   - Data Frames
+     - [Data Frames – An Introduction (built-in)](https://youtu.be/pgXTkzqN6Wc?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
+   - Some Useful Functions - Prepare for Next Lessons
 5. Conditional Executions
    - The `if`, `else` and `else if` Conditions
    - Nested `if` Conditions
