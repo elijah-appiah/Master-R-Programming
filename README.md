@@ -18,7 +18,8 @@ Here is an outline of the lesson on **Master R Programming**:
    - [Type Conversion: Convert One Data Type to Another](https://youtu.be/M-WiG7lfwuM?si=MVVuzUdNYDp1v2ea)
    - [Variable Naming Conventions in R](https://youtu.be/fTx109jARqo?si=DFO80d3ck3ZV6pPj)
 4. Data Structures
-   - [Vectors](https://youtu.be/YuMVnWUfipE?si=xfBqrQDj2TP3zdq7)
+   - Vectors
+     - [Vectors](https://youtu.be/YuMVnWUfipE?si=xfBqrQDj2TP3zdq7)
      - [Arithmetic Operations on Vectors](https://youtu.be/TQFFTUiuehA?si=JZQfYgudVND5FnZP)
      - [Relational Operations on Vectors](https://youtu.be/AEqet3ujopM?si=TiuYWGSr6f4cYxzr)
      - [Vector Indexing with “Index” and “Relational Operators”](https://youtu.be/Sx7QPVj9m90?si=YIpYqP1rMEKLQ1dA)
