@@ -37,11 +37,11 @@ Here is an outline of the lesson on **Master R Programming**:
      - [Create 1D, 2D, 3D, 4D Arrays & Array Indexing](https://youtu.be/mo5tH7VCRDY?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
    - Data Frames
      - [Data Frames – An Introduction (built-in)](https://youtu.be/pgXTkzqN6Wc?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
-   - Some Useful Functions - Prepare for Next Lessons
+   - [Talk to your R Codes! Some Useful Functions - Prepare for Next Lessons](https://youtu.be/A-68BRLABA0?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
 5. Conditional Executions
-   - The `if`, `else` and `else if` Conditions
-   - Nested `if` Conditions
-   - The `ifelse()` Function	
+   - [The Basic `if` Conditions, Multiple and Nested `if``Conditions](https://youtu.be/K3IHTUqy8xA?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
+   - The `ifelse()` Condition
+   - The `switch()` Condition
 6. Loops
    - The `for` Loop
    - The `while` Loop
