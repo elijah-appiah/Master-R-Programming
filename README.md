@@ -40,8 +40,8 @@ Here is an outline of the lesson on **Master R Programming**:
    - [Talk to your R Codes! Some Useful Functions - Prepare for Next Lessons](https://youtu.be/A-68BRLABA0?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
 5. Conditional Executions
    - [The Basic `if` Conditions, Multiple and Nested `if``Conditions](https://youtu.be/K3IHTUqy8xA?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
-   - The `ifelse()` Condition
-   - The `switch()` Condition
+   - [The `ifelse()` Condition](https://youtu.be/DciU7xTDlJQ?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
+   - [The `switch()` Condition](https://youtu.be/49PaxBiByII?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
 6. Loops
    - The `for` Loop
    - The `while` Loop
