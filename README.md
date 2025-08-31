@@ -43,7 +43,7 @@ Here is an outline of the lesson on **Master R Programming**:
    - [The `ifelse()` Condition](https://youtu.be/DciU7xTDlJQ?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
    - [The `switch()` Condition](https://youtu.be/49PaxBiByII?list=PLkOTO74hKaGETSkk82h8EdvEvAhd_9Jep)
 6. Loops
-   - The `for` Loop
+   - [The `for` Loop]{https://youtu.be/fCxYq6YV9hU}
    - The `while` Loop
    - The `repeat` Loop		
 7. Functional Programming
